@@ -12,7 +12,8 @@
     -- 👨🏻‍🏫🍀🍉👨‍💻 --
   </p>
   <p class="info-footer" align="center">
-    👩🏻‍🚀 <i>Check check. <a target="_blank" rel="noopener noreferrer" href="mailto:avreghly@gmail.com">I'm available for hire!</a></i> 👨🏻‍🚀<br/>
+    👩🏻‍🚀 <i>Check check. <a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-work-availability">I'm available for hire!</a></i> 👨🏻‍🚀<br/>
+    see my <i><a target="_blank" rel="noopener noreferrer" href="http://vitae.shrotavre.com">resume here</a></i>
   </p>
 </div>
 
@@ -29,11 +30,12 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 ## 👥 Social Channels
 
 - 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
-- 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avrebarra/)
+- 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
 - :octocat: [GitHub shrotavre](https://github.com/shrotavre)
 - 🐦 [Twitter @shrtavre](https://twitter.com/shrtavre)
 - 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
-- 🌐 [Website shrotavre.com](https://shrotavre.com)
+- 🌐 [Website shrotavre.com](http://www.shrotavre.com)
+- 🧾 *Also see my resume [here](http://vitae.shrotavre.com)*
 
 ## 🌠 Side Interests and Hobbies
 I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
@@ -41,14 +43,20 @@ I’ve got wide set of useful interests and general knowledges aside from engine
 ## 👞 Work Availability?
 Yes! I'm open for opportunities currently. Yay!
 
-Interested? Lets talk about it. contact me through my email at [avreghly@gmail.com](mailto:avreghly@gmail.com)!
+You can reach me through my email at [avreghly@gmail.com](mailto:avreghly@gmail.com) or my [LinkedIn profile](https://www.linkedin.com/in/avre-barra/). 
+
+Lets talk about it. I bet you have really great thing for me to see, right? 😏 
 
 ---
 
 <div class="info">
   <p class="info-footer" align="center">
-     👩🏻‍🚀 <b>Man, you are awesome today!</b> 👍✨ 👨🏻‍🚀<br/>
+     👩🏻‍🚀 Oh, one last thing: <b>you are awesome today!</b> 👍✨ 👨🏻‍🚀<br/>
   </p>
 </div>
 
 ---
+
+  <p class="info-footer" align="center">
+  🍀🏫🍀
+  </p>
