@@ -13,12 +13,9 @@
   </p>
 
 </div>
-
----
-
   <p class="info-footer" align="center">
     👩🏻‍🚀 <i>Check check. <a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-work-availability">I'm available for hire!</a></i> 👨🏻‍🚀<br/>
-    <i><a target="_blank" rel="noopener noreferrer" href="http://vitae.shrotavre.com">resume</a></i> & <i><a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-social-channels">contacts</a></i>
+
   </p>
 
 ---
@@ -47,9 +44,12 @@ I’ve got wide set of useful interests and general knowledges aside from engine
 ## 👞 Work Availability?
 Yes! I'm open for opportunities currently. Yay!
 
+
 You can reach me through my email at [avreghly@gmail.com](mailto:avreghly@gmail.com) or my [LinkedIn profile](https://www.linkedin.com/in/avre-barra/). 
 
 Lets talk about it. I bet you have really great thing for me to see, right? 😏 
+
+*You can see my resume [here](http://vitae.shrotavre.com)*
 
 ---
 
