@@ -11,11 +11,15 @@
   <p class="info-footer" align="center">
     -- 👨🏻‍🏫🍀🍉👨‍💻 --
   </p>
+
+</div>
+
+---
+
   <p class="info-footer" align="center">
     👩🏻‍🚀 <i>Check check. <a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-work-availability">I'm available for hire!</a></i> 👨🏻‍🚀<br/>
-    see my <i><a target="_blank" rel="noopener noreferrer" href="http://vitae.shrotavre.com">resume here</a></i>
+    <i><a target="_blank" rel="noopener noreferrer" href="http://vitae.shrotavre.com">resume</a></i> & <i><a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-social-channels">contacts</a></i>
   </p>
-</div>
 
 ---
 
