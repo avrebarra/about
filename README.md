@@ -1,10 +1,10 @@
 <div class="info">
-  <h1 class="name" align="center"><span>👨🏻‍🚀 Avré Barra</span></h1>
+  <h1 class="name" align="center"><span>Avré Barra</span></h1>
   <p class="meta-data" align="center">
     ✨ System Engineer (Backend) ✨ <br/>
     🧲 the 'you-know-he-is-interesting' engineer 😏 🧲<br/>
     ♻️ I dream in Microservices and System-Architectures ♻️<br/>
-    🦄 Used to work at <a target="_blank" rel="noopener noreferrer" href="https://www.bukalapak.com">Bukalapak 🤘🏻</a> 🦄 <br/>
+    🦄 Used to work at unicorn, <a target="_blank" rel="noopener noreferrer" href="https://www.bukalapak.com">Bukalapak 🤘🏻</a> 🦄 <br/>
     ✨ I <3 Racoons 🦝 ✨<br/>
 
   </p>
@@ -33,7 +33,7 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 - 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
 - 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
 - :octocat: [GitHub shrotavre](https://github.com/shrotavre)
-- 🐦 [Twitter @shrtavre](https://twitter.com/shrtavre)
+- 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra)
 - 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
 - 🌐 [Website shrotavre.com](http://www.shrotavre.com)
 - 🧾 *Also see my resume [here](http://vitae.shrotavre.com)*
