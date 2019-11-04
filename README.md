@@ -65,6 +65,8 @@ I’ve got wide set of useful interests and general knowledges aside from engine
 - **Bukalapak Mitra**: Indonesian unicorn, Bukalapak's programme to disrupt conventional/traditional SME 'kelontong' store's and supply chain in Indonesia.
 - **Passpod**: Mifi rental and attraction's ticket ordering service.
 
+*PS. You can read more about my professional project trackrecords in my resume [here](http://vitae.shrotavre.com)*
+
 ## 👞 Work Availability?
 Yes! I'm open for opportunities currently. Yay!
 
