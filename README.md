@@ -1,7 +1,7 @@
 <div class="info">
   <h1 class="name" align="center"><span>Avré Barra</span></h1>
   <p class="meta-data" align="center">
-    ✨ The 'you-know-he-is-interesting' System Engineer (Backend) ✨ <br/>
+    ✨ The 'you-know-he-is-interesting' System Engineer (Backend) 😏✨ <br/>
     ♻️ I dream in Microservices and System-Architectures ♻️<br/>
     🦄 Used to work at unicorn <a target="_blank" rel="noopener noreferrer" href="https://www.bukalapak.com">Bukalapak 🤘</a> 🦄 <br/>
     👩🚀 <i><a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-work-availability">I'm available for hire!</a></i> 👨🚀<br/>
@@ -19,7 +19,7 @@ Previously worked at unicorn-level startup 🦄[Bukalapak](https://www.bukalapak
 
 Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies. Those ain't final. He prefers learrrnnn..
 
-## 🌠 Notable Projects
+## 🍵 Notable Projects
 These are list of apps, projects, and experiments I've created outside of my job. If youre trying to find more about my professional project trackrecords, you can check my resume [here](http://vitae.shrotavre.com).
 
 #### Apps
