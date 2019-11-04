@@ -44,16 +44,16 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 
 
 ## 👥 Links
-#### General Contacts
+##### General Contacts
 - 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
 - 🌐 [Website shrotavre.com](http://www.shrotavre.com)
 - 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
 
-#### Developer Channel
+##### Developer Channel
 - :octocat: [GitHub shrotavre](https://github.com/shrotavre)
 - 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
 
-#### Social Medias
+##### Social Medias
 - 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra)
 - 🌐 [Instagram @avrebarra](https://instagram.com/avrebarra)
 
