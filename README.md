@@ -37,18 +37,11 @@ These are list of apps, projects, and experiments I've created outside of my job
 - [**ttsf/text-to-speech-file**](https://www.npmjs.com/package/text-to-speech-file): Convert text to speech file.
 
 ## 👥 Links
-##### General Contacts
-- 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
-- 🌐 [Website shrotavre.com](http://www.shrotavre.com)
-- 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
-
-##### Developer Channel
-- :octocat: [GitHub shrotavre](https://github.com/shrotavre)
-- 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
-
-##### Social Medias
-- 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra)
-- 🌐 [Instagram @avrebarra](https://instagram.com/avrebarra)
+| General Contacts | Developer Channels | Social Media |
+| ----------- | ----------- | ----------- |
+| 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)          | :octocat: [GitHub shrotavre](https://github.com/shrotavre)  | 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra) |
+| 🌐 [Website shrotavre.com](http://www.shrotavre.com)              | 📦 [npm shrotavre](https://npmjs.com/~shrotavre)            | 🌐 [Instagram @avrebarra](https://instagram.com/avrebarra) |
+| 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)  | | |
 
 ## 🌠 Side Interests and Hobbies
 I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
