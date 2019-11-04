@@ -19,9 +19,9 @@ Previously worked at unicorn-level startup 🦄[Bukalapak](https://www.bukalapak
 
 Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies. Those ain't final. He prefers learrrnnn..
 
-🧾 *You can also see my resume [here](http://vitae.shrotavre.com)*
-
 ## 🌠 Notable Projects
+These are list of apps, projects, and experiments I've created outside of my job. If youre trying to find more about my professional project trackrecords, you can check my resume [here](http://vitae.shrotavre.com).
+
 #### Apps
 - [**web-rls**](https://web-rls.herokuapp.com/): Web based realtime location sharing system. Built using Node + React via Socket.io. Developed version of my last-year-project in university.
 - [**golang-filetinder**](https://github.com/shrotavre/filetinder): Experiment app to tinderify you files. (Review your files, keep what you liked, and delete what you didn't like). Built using Golang + Svelte for the user interface.
@@ -35,13 +35,6 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 - [**gudlock**](https://www.npmjs.com/package/gudlock): Centralised lock system for NodeJS over TCP socket.
 - [**nodtts**](https://www.npmjs.com/package/nodtts): Generate sound file from text.
 - [**ttsf/text-to-speech-file**](https://www.npmjs.com/package/text-to-speech-file): Convert text to speech file.
-
-#### ...Other Project Trackrecords
-- **Bukalapak Mitra**: Indonesian unicorn, Bukalapak's programme to disrupt conventional/traditional SME 'kelontong' store's and supply chain in Indonesia.
-- **Passpod**: Mifi rental and attraction's ticket ordering service.
-
-*PS. You can read more about my professional project trackrecords in my resume [here](http://vitae.shrotavre.com)*
-
 
 ## 👥 Links
 ##### General Contacts
