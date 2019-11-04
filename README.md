@@ -21,31 +21,6 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 
 🧾 *You can also see my resume [here](http://vitae.shrotavre.com)*
 
-## 👥 Table of Contents
-
-* [Biography](#-biography)
-* [Social Channels](#-links)
-* [Notable Projects](#-notable-projects)
-* [Side Interests & Hobbies](#-side-interests-and-hobbies)
-* [Work Availability](#-work-availability)
-
-## 👥 Links
-#### General Contacts
-- 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
-- 🌐 [Website shrotavre.com](http://www.shrotavre.com)
-- 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
-
-#### Developer Channel
-- :octocat: [GitHub shrotavre](https://github.com/shrotavre)
-- 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
-
-#### Social Medias
-- 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra)
-- 🌐 [Instagram @avrebarra](https://instagram.com/avrebarra)
-
-## 🌠 Side Interests and Hobbies
-I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
-
 ## 🌠 Notable Projects
 #### Apps
 - [**web-rls**](https://web-rls.herokuapp.com/): Web based realtime location sharing system. Built using Node + React via Socket.io. Developed version of my last-year-project in university.
@@ -66,6 +41,24 @@ I’ve got wide set of useful interests and general knowledges aside from engine
 - **Passpod**: Mifi rental and attraction's ticket ordering service.
 
 *PS. You can read more about my professional project trackrecords in my resume [here](http://vitae.shrotavre.com)*
+
+
+## 👥 Links
+#### General Contacts
+- 📧 [Email avreghly@gmail.com](mailto:avreghly@gmail.com)
+- 🌐 [Website shrotavre.com](http://www.shrotavre.com)
+- 💼 [LinkedIn avrebarra](https://www.linkedin.com/in/avre-barra/)
+
+#### Developer Channel
+- :octocat: [GitHub shrotavre](https://github.com/shrotavre)
+- 📦 [npm shrotavre](https://npmjs.com/~shrotavre)
+
+#### Social Medias
+- 🐦 [Twitter @avrebarra](https://twitter.com/avrebarra)
+- 🌐 [Instagram @avrebarra](https://instagram.com/avrebarra)
+
+## 🌠 Side Interests and Hobbies
+I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
 
 ## 👞 Work Availability?
 Yes! I'm open for opportunities currently. Yay!
