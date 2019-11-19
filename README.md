@@ -15,7 +15,7 @@
 
 Avré Barra is a web backend developer. Currently based in Yogyakarta, Indonesia. He has passions for backend system & architectures, and this things about services orchestration.
 
-Previously worked at unicorn-level startup 🦄[Bukalapak](https://www.bukalapak.com) at its fastest-growing pace period, with **hundreds of teammates, >5mil requests/day, and >50 microservices orchestrated,** you can expect he's experienced on working well as a team as well as on his own 🐐
+Previously worked at unicorn-level startup 🦄[Bukalapak](https://www.bukalapak.com) at its fastest-growing pace period, with **hundreds of mates, >5mil requests/day, and >50 microservices orchestrated,** you can expect he's experienced on working well as a team as well as on his own 🐐
 
 Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies. Those ain't final. He prefers learrrnnn..
 
