@@ -22,14 +22,18 @@ Programming languages? Ruby, NodeJS, Golang, are some of his main proficiencies.
 ## 🍵 Notable Projects
 These are list of apps, projects, and experiments I've created outside of my job. If youre trying to find more about my professional project trackrecords, you can check my resume [here](http://vitae.shrotavre.com).
 
+#### Chrome Web Extensions
+- [**repeat-button-youtube**](https://chrome.google.com/webstore/detail/repeat-button-youtube/aoanbbgkingihjpbnhmlaabkipkpkmmd): Chrome extension to add a repeat/loop button to loop any YouTube videos you watch. Built mainly using JavaScript.
+- [**yosh-timer**](https://chrome.google.com/webstore/detail/yosh-timer/hjijpglmgfocjfkakgfckahooekhgjba): Timer app using Chrome Web UI support. Built mainly using JavaScript.
+
+#### Golang Packages
+- [**golang-gotts**](https://github.com/shrotavre/gotts): Golang based CLI tool to generate speech file from text (tts/text-to-speech).
+- [**golang-goi9e**](https://github.com/shrotavre/goi9e): Experimental basic string interpolation package for Golang
+
 #### Apps
 - [**web-rls**](https://web-rls.herokuapp.com/): Web based realtime location sharing system. Built using Node + React via Socket.io. Developed version of my last-year-project in university.
 - [**golang-filetinder**](https://github.com/shrotavre/filetinder): Experiment app to tinderify you files. (Review your files, keep what you liked, and delete what you didn't like). Built using Golang + Svelte for the user interface.
 - [**echodio**](https://shrotavre.github.io/echodio/): Web app to mirror your voice using HTML MediaRecorder and audio playback feature.
-
-#### Chrome Web Extensions
-- [**repeat-button-youtube**](https://chrome.google.com/webstore/detail/repeat-button-youtube/aoanbbgkingihjpbnhmlaabkipkpkmmd): Chrome extension to add a repeat/loop button to loop any YouTube videos you watch. Built mainly using JavaScript.
-- [**yosh-timer**](https://chrome.google.com/webstore/detail/yosh-timer/hjijpglmgfocjfkakgfckahooekhgjba): Timer app using Chrome Web UI support. Built mainly using JavaScript.
 
 #### NPM Packages
 - [**gudlock**](https://www.npmjs.com/package/gudlock): Centralised lock system for NodeJS over TCP socket.
@@ -47,7 +51,7 @@ These are list of apps, projects, and experiments I've created outside of my job
 I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
 
 ## 👞 Work Availability?
-Yes! I'm open for opportunities currently. Yay!
+Yes! I'm open for opportunities currently.
 
 
 You can reach me through my email at [avreghly@gmail.com](mailto:avreghly@gmail.com) or my [LinkedIn profile](https://www.linkedin.com/in/avre-barra/). 
