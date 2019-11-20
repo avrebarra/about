@@ -27,6 +27,7 @@ These are list of apps, projects, and experiments I've created outside of my job
 - [**yosh-timer**](https://chrome.google.com/webstore/detail/yosh-timer/hjijpglmgfocjfkakgfckahooekhgjba): Timer app using Chrome Web UI support. Built mainly using JavaScript.
 
 #### Golang Packages
+- [**goexpector**](https://github.com/shrotavre/goexpector):Helper package for basic expect-styled assertions in Golang test.
 - [**golang-gotts**](https://github.com/shrotavre/gotts): Golang based CLI tool to generate speech file from text (tts/text-to-speech).
 - [**golang-goi9e**](https://github.com/shrotavre/goi9e): Experimental basic string interpolation package for Golang
 
