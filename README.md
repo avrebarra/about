@@ -29,6 +29,7 @@ These are list of apps, projects, and experiments I've created outside of my job
 #### Golang Packages
 - [**golang-gotts**](https://github.com/shrotavre/gotts): Golang based CLI tool to generate speech file from text (tts/text-to-speech).
 - [**goexpector**](https://github.com/shrotavre/goexpector):Helper package for basic expect-styled assertions in Golang test.
+- [**gosargs**](https://github.com/shrotavre/gosargs): A helper package to parse args passed to Golang executables.
 - [**golang-goi9e**](https://github.com/shrotavre/goi9e): Experimental basic string interpolation package for Golang
 
 #### Apps
