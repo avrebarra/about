@@ -3,7 +3,7 @@
   <p class="meta-data" align="center">
     ✨ The 'you-know-he-is-interesting' System Engineer (Backend) 😏✨ <br/>
     ♻️ I dream in Microservices and System-Architectures ♻️<br/>
-    🦄 Used to work at unicorn <a target="_blank" rel="noopener noreferrer" href="https://www.bukalapak.com">Bukalapak 🤘</a> 🦄 <br/>
+ <br/>
     👩🚀 <i><a target="_blank" rel="noopener noreferrer" href="https://github.com/shrotavre/about#-work-availability">I'm available for hire!</a></i> 👨🚀<br/>
   </p>
 </div>
@@ -53,14 +53,10 @@ These are list of apps, projects, and experiments I've created outside of my job
 I’ve got wide set of useful interests and general knowledges aside from engineering, like: *designs, business, philosophy, digital-illustration, human-psychology, arts, religious study, UX/UI, self-helps, tours, histories and Indonesian cultures.*
 
 ## 👞 Work Availability?
-Yes! I'm open for opportunities currently.
-
 
 You can reach me through my email at [avreghly@gmail.com](mailto:avreghly@gmail.com) or my [LinkedIn profile](https://www.linkedin.com/in/avre-barra/). 
 
 Lets talk about it. I bet you have really great thing for me to see, right? 😏 
-
-*You can see my resume [here](http://vitae.shrotavre.com)*
 
 ---
 
